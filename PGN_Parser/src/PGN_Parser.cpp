@@ -38,7 +38,7 @@ namespace Pale {
 				in_File.open(iterator);
 
 				if (!in_File.good())
-					printf("Zjebales!!!!!"); //TODO: Delete later
+					printf("ERROR: Cannot open file!"); //TODO: Delete later
 
 				std::string line;
 				while (std::getline(in_File, line)) {
