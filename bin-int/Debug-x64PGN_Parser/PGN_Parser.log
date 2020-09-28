@@ -1,0 +1,9 @@
+﻿  PGN_Parser.cpp
+F:\Visual Studio\Repos\PGN_Parser\PGN_Parser\src\PGN_Parser.h(18,36): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+F:\Visual Studio\Repos\PGN_Parser\PGN_Parser\src\PGN_Parser.cpp(13,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+F:\Visual Studio\Repos\PGN_Parser\PGN_Parser\src\PGN_Parser.cpp(587,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Visual Studio\Repos\PGN_Parser\PGN_Parser\src\PGN_Parser.cpp(591,62): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+F:\Visual Studio\Repos\PGN_Parser\PGN_Parser\src\PGN_Parser.h(18,36): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  PGN_Parser.vcxproj -> F:\Visual Studio\Repos\PGN_Parser\bin\Debug-x64PGN_Parser\PGN_Parser.exe
